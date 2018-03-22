@@ -1,2 +1,5 @@
 # screenShooter
-Take a screenshot of your screen
+Screenshot your screen!
+
+# Requirements
+pip install pyautogui
